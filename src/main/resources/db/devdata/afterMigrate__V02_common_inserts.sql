@@ -1,0 +1,3 @@
+INSERT INTO TB_ENDERECO (id, logradouro, cep, numero, cidade, endereco_Principal,pessoa_id) VALUES ('2f4b7d0e-3c72-4b18-9b10-71228d44ed92', 'Rua das Flores', '12345-678', 10, 'São Paulo', true,'3b3b7c0f-2d73-4a28-8a01-82229e33ec81');
+
+INSERT INTO TB_ENDERECO (id, logradouro, cep, numero, cidade, endereco_Principal, pessoa_id)VALUES ('8f8f8f8f-8f8f-8f8f-8f8f-8f8f8f8f8f8f', 'Av. Paulista','01310-100',500,'São Paulo',false,'c9e13e1c-5c80-4a11-aaaf-040d90b3d1c3');
